@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Brent/Dropbox/UoA Study/Study 2015/03 Full Stack Development/Course 04 - Hybrid Mobile Apps/Week - 01/Ionic/conFusion/www/js/controllers.js",
+        "C:/Users/Brent/Dropbox/UoA Study/Study 2015/03 Full Stack Development/Course 04 - Hybrid Mobile Apps/Week - 01/Ionic/conFusion/gulpfile.js",
+        "C:/Users/Brent/Dropbox/UoA Study/Study 2015/03 Full Stack Development/Course 04 - Hybrid Mobile Apps/Week - 01/Ionic/conFusion/www/lib/ionic/js/ionic.min.js",
+        "C:/Users/Brent/Dropbox/UoA Study/Study 2015/03 Full Stack Development/Course 04 - Hybrid Mobile Apps/Week - 01/Ionic/conFusion/www/lib/ionic/js/ionic.js",
+        "C:/Users/Brent/Dropbox/UoA Study/Study 2015/03 Full Stack Development/Course 04 - Hybrid Mobile Apps/Week - 01/Ionic/conFusion/www/js/services.js"
+    ]
+}
